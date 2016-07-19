@@ -11,7 +11,7 @@ public class Splash extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.splash_soc);
-
+        //Small Change
         int secondsDelayed = 1;
         new Handler().postDelayed(new Runnable() {
             public void run() {
