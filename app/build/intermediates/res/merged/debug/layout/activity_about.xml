@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    tools:context="com.acaciasosoftware.sociality.AboutActivity"
+    android:weightSum="1">
+
+    <TextView android:text="@string/About" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold|normal"
+        android:textSize="20dp"
+        android:id="@+id/textView" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="113dp"
+        android:id="@+id/imageView"
+        android:src="@mipmap/ic_launcher_soc"
+        android:layout_weight="0.40"
+        android:layout_below="@+id/textView"
+        android:layout_alignRight="@+id/tvSociality"
+        android:layout_alignEnd="@+id/tvSociality"
+        android:layout_alignLeft="@+id/tvSociality"
+        android:layout_alignStart="@+id/tvSociality" />
+
+    <TextView android:text="@string/app_name"
+        android:id="@+id/tvSociality"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold|normal"
+        android:textSize="20dp"
+        android:layout_gravity="center_vertical"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true" />
+
+    <TextView android:text="@string/Version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold|normal"
+        android:textSize="20sp"
+        android:id="@+id/tvVer"
+        android:layout_gravity="center_vertical"
+        android:layout_below="@+id/tvSociality"
+        android:layout_centerHorizontal="true" />
+
+    <TextView android:text="@string/Copyright"
+        android:id="@+id/tvCopyright"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_below="@+id/tvVer"
+        android:layout_centerHorizontal="true" />
+
+    <TextView android:text="@string/DevMsg"
+        android:id="@+id/tvDevMsg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_below="@+id/tvCopyright"
+        android:layout_marginTop="40dp"
+        android:layout_alignLeft="@+id/tvEmail"
+        android:layout_alignStart="@+id/tvEmail"
+        android:layout_alignRight="@+id/tvEmail"
+        android:layout_alignEnd="@+id/tvEmail" />
+
+    <TextView android:text="@string/Email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold|normal"
+        android:id="@+id/tvEmail"
+        android:layout_gravity="center_vertical"
+        android:layout_below="@+id/tvDevMsg"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="42dp" />
+
+</RelativeLayout>
+<!-- From: file:/C:/AAA/Android/Sociality/app/src/main/res/layout/activity_about.xml -->
