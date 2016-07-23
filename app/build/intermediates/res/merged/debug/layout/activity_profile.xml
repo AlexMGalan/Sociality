@@ -1,16 +1,65 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
-    android:layout_height="match_parent" android:paddingLeft="16dp"
-    android:paddingRight="16dp"
-    android:paddingTop="16dp"
-    android:paddingBottom="16dp"
-    tools:context="com.acaciasosoftware.sociality.ProfileActivity">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/selectableItemBackground"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
 
-    <TextView android:text="@string/Profile" android:layout_width="wrap_content"
+    <TextView
+        android:text="@string/Profile"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textStyle="bold|normal"
-        android:textSize="20dp"
+        android:textSize="@dimen/abc_text_size_large_material"
         android:id="@+id/textView" />
 
-</RelativeLayout>
-<!-- From: file:/C:/AAA/Android/Sociality/app/src/main/res/layout/activity_profile.xml -->
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email:"
+        android:textColor="#0000FF"
+        android:textStyle="bold"
+        android:textSize="@dimen/abc_text_size_large_material" />
+
+    <EditText
+        android:id="@+id/edEmail"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:ems="10"
+        android:gravity="center"
+        android:background="@layout/roundedcorner"
+        android:hint="" />
+
+    <TextView
+        android:id="@+id/Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name:"
+        android:textColor="#0000FF"
+        android:textStyle="bold"
+        android:textSize="@dimen/abc_text_size_large_material" />
+
+    <EditText
+        android:id="@+id/edName"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:ems="10"
+        android:gravity="center"
+        android:background="@layout/roundedcorner"
+        android:hint="" />
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

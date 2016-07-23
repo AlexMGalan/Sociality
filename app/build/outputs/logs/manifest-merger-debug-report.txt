@@ -1,8 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:2:1-67:12
-	xmlns:android
-		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:2:11-69
+ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:2:1-72:12
 	package
 		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml
@@ -10,6 +8,8 @@ ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:2:1-67:12
 	android:versionName
 		INJECTED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml
 		INJECTED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
 		INJECTED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml
 		INJECTED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml
@@ -159,7 +159,7 @@ MERGED from [com.android.support:support-v4:22.2.1] C:\AAA\Android\Sociality\app
 		INJECTED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml
 		INJECTED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:17:5-65:19
+ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:17:5-70:19
 MERGED from [com.android.support:appcompat-v7:22.2.1] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:22.2.1] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:19:5-20
@@ -283,16 +283,16 @@ MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\AAA\Android\Soc
 MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-base:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-	android:name
-		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:24:13-58
 	android:value
 		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:24:13-58
 meta-data#com.google.android.maps.v2.API_KEY
 ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:26:9-28:55
-	android:name
-		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:27:13-62
 	android:value
 		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:27:13-62
 activity#com.acaciasosoftware.sociality.Splash
 ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:30:9-38:20
 	android:label
@@ -339,6 +339,12 @@ ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:60:9-63:20
 		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:62:13-43
 	android:name
 		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:61:13-43
+activity#com.acaciasosoftware.sociality.SearchActivity
+ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:65:9-68:20
+	android:label
+		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:67:13-43
+	android:name
+		ADDED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:66:13-43
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:26:9-29:64
 	android:configChanges
@@ -358,12 +364,12 @@ ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\AAA\Android\Soci
 MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
 MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
 MERGED from [com.google.android.gms:play-services-maps:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:26:8-31
 	android:glEsVersion
 		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:25:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:26:8-31
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:2:1-67:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:2:1-72:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
 uses-permission#android.permission.GET_ACCOUNTS
 ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:21:5-70
 	android:name
@@ -374,10 +380,10 @@ ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\AAA\Android\So
 		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:22:22-71
 meta-data#com.google.android.gms.wallet.api.enabled
 ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:25:9-27:36
-	android:name
-		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:26:13-69
 	android:value
 		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:26:13-69
 receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
 ADDED from [com.google.android.gms:play-services-wallet:7.5.0] C:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:28:9-34:20
 	android:exported

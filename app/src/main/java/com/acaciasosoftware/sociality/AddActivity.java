@@ -1,19 +1,32 @@
 package com.acaciasosoftware.sociality;
 
+import java.util.ArrayList;
+import java.util.List;
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.Spinner;
 import android.widget.Toast;
+import android.widget.Button;
+import android.view.View.OnClickListener;
 
 
 public class AddActivity extends ActionBarActivity {
+    private Spinner  spinner;
+    private Button btnSubmit;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add);
+
+        addListenerOnButton();
+        addListenerOnSpinnerItemSelection();
     }
 
     @Override
@@ -34,7 +47,7 @@ public class AddActivity extends ActionBarActivity {
         }
 
         if (id == R.id.search) {
-            Toast.makeText(getApplicationContext(), "Search is coming soon.", Toast.LENGTH_LONG).show();
+            startActivity(new Intent(getApplicationContext(), SearchActivity.class));
             return true;
         }
 
@@ -68,4 +81,30 @@ public class AddActivity extends ActionBarActivity {
         return false;
     }
 
+    public void addListenerOnSpinnerItemSelection() {
+      //  spinner1 = (Spinner) findViewById(R.id.spinner1);
+        spinner.setOnItemSelectedListener(new CustomOnItemSelectedListener());
+    }
+
+    // get the selected dropdown list value
+    public void addListenerOnButton() {
+
+        spinner = (Spinner) findViewById(R.id.spinner);
+        btnSubmit = (Button) findViewById(R.id.btnSubmit);
+
+        btnSubmit.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+
+               Toast.makeText(getApplicationContext(),
+                        "OnClickListener : " +
+                                "\nSpinner : "+ String.valueOf(spinner.getSelectedItem()),
+                       Toast.LENGTH_SHORT).show();
+            }
+
+        });
+    }
 }
+
+

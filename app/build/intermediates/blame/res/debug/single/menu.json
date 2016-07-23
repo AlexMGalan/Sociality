@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile.xml",
+        "source": "C:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\menu\\menu_profile.xml"
+    },
+    {
+        "merged": "C:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_latest.xml",
+        "source": "C:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\menu\\menu_latest.xml"
+    },
+    {
+        "merged": "C:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_add.xml",
+        "source": "C:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\menu\\menu_add.xml"
+    },
+    {
+        "merged": "C:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_about.xml",
+        "source": "C:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\menu\\menu_about.xml"
+    },
+    {
+        "merged": "C:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_mnu.xml",
+        "source": "C:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\menu\\menu_mnu.xml"
+    }
+]

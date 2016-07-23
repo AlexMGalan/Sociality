@@ -39,7 +39,7 @@ public class MapsActivitySoc extends ActionBarActivity {
         int id = item.getItemId();
 
         if (id == R.id.search) {
-            Toast.makeText(getApplicationContext(), "Search is coming soon.", Toast.LENGTH_LONG).show();
+            startActivity(new Intent(getApplicationContext(), SearchActivity.class));
             return true;
         }
 

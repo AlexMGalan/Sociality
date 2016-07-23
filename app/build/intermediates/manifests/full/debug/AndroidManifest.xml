@@ -69,6 +69,10 @@
             android:name="com.acaciasosoftware.sociality.LatestActivity"
             android:label="@string/Latest" >
         </activity>
+        <activity
+            android:name="com.acaciasosoftware.sociality.SearchActivity"
+            android:label="@string/search" >
+        </activity>
 
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity

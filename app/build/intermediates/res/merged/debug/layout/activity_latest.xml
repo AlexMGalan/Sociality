@@ -12,5 +12,12 @@
         android:textSize="20dp"
         android:id="@+id/textView" />
 
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="77dp" />
+
 </RelativeLayout>
-<!-- From: file:/C:/AAA/Android/Sociality/app/src/main/res/layout/activity_latest.xml -->

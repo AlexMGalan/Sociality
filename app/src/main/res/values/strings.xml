@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">Sociality</string>
-    <string name="title_activity_maps_activity_soc">Map</string>
+    <string name="title_activity_maps_activity_soc">Sociality</string>
     <color name="Myblue">#549EFD</color>
 
     <string name="Start">Start</string>
     <string name="title_activity_splash_screen">Sociality</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps">Sociality</string>
     <string name="action_search">Search</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_mnu">mnuActivity</string>
@@ -31,6 +31,32 @@
     <string name="soc_title_hint">Hint</string>
     <string name="soc_details_label">Title</string>
     <string name="soc_solved_label">Solved</string>
+    <string name="Take">take</string>
+    <string name="soc_add_new">Add New Entry</string>
+    <string name="country_prompt">Country</string>
+    <string name="incident">Incident</string>
+    <string name="date">Date</string>
+    <string name="type">Type</string>
+    <string name="Twitter">Twitter:</string>
+    <string name="AcaciaSoftware">\@AcaciaSoftware</string>
+    <string name="Search">Search</string>
 
+
+    <string-array name="country_arrays">
+        <item>Today</item>
+        <item>Yesterday</item>
+        <item>Date</item>
+    </string-array>
+
+    <string-array name="incident_arrays">
+        <item>Assault</item>
+        <item>Vandalism</item>
+        <item>Anti-Social</item>
+        <item>Steal</item>
+        <item>Drug Use</item>
+        <item>Animal Cruelty</item>
+        <item>Noise</item>
+        <item>Other</item>
+    </string-array>
 
 </resources>
