@@ -1,30 +1,30 @@
 [
     {
-        "merged": "C:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_action_new.png",
+        "source": "D:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_new.png"
     },
     {
-        "merged": "C:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_person_white_24dp.png",
-        "source": "C:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_person_white_24dp.png"
+        "merged": "D:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_action_search.png",
+        "source": "D:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_search.png"
     },
     {
-        "merged": "C:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_action_new.png",
-        "source": "C:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_new.png"
+        "merged": "D:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_public_white_24dp.png",
+        "source": "D:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_public_white_24dp.png"
     },
     {
-        "merged": "C:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher_soc.png",
-        "source": "C:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_soc.png"
+        "merged": "D:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_home_white_24dp.png",
+        "source": "D:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_home_white_24dp.png"
     },
     {
-        "merged": "C:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_home_white_24dp.png",
-        "source": "C:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_home_white_24dp.png"
+        "merged": "D:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_action_search.png",
-        "source": "C:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_search.png"
+        "merged": "D:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher_soc.png",
+        "source": "D:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_soc.png"
     },
     {
-        "merged": "C:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_public_white_24dp.png",
-        "source": "C:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_public_white_24dp.png"
+        "merged": "D:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_person_white_24dp.png",
+        "source": "D:\\AAA\\Android\\Sociality\\app\\src\\main\\res\\mipmap-hdpi\\ic_person_white_24dp.png"
     }
 ]

@@ -7,6 +7,7 @@ import android.content.Intent;
 
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -14,10 +15,18 @@ import com.google.android.gms.maps.CameraUpdateFactory;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
+import android.content.Context;
+import android.location.Criteria;
+import android.location.Location;
+import android.location.LocationManager;
+
 
 public class MapsActivitySoc extends ActionBarActivity {
 
     private GoogleMap mMap; // Might be null if Google Play services APK is not available.
+    private Double latitude;
+    private Double longitude;
+    public String bestProvider;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,7 +53,21 @@ public class MapsActivitySoc extends ActionBarActivity {
         }
 
         if (id == R.id.add) {
-            Toast.makeText(getApplicationContext(), "Select a location on the Map to Add entry.", Toast.LENGTH_LONG).show();
+            //New Intent
+          //  Intent nextScreen = new Intent(getApplicationContext(), AddActivity.class);
+
+        //    nextScreen.putExtra("Lat", latitude.toString());
+            //   nextScreen.putExtra("Long", longitude.toString());
+
+             //  nextScreen.putExtra("Lat", "33.8150");
+             //  nextScreen.putExtra("Long", "151.0011");
+
+
+
+
+            //  Toast.makeText(getApplicationContext(), "Select a location on the Map to Add entry.", Toast.LENGTH_LONG).show();
+          //  startActivity(new Intent(getApplicationContext(), AddActivity.class));
+          //  startActivity(nextScreen);
             startActivity(new Intent(getApplicationContext(), AddActivity.class));
             return true;
         }
@@ -114,23 +137,65 @@ public class MapsActivitySoc extends ActionBarActivity {
      * <p/>
      * This should only be called once and when we are sure that {@link #mMap} is not null.
      */
+
+    public static boolean isLocationEnabled(Context context)
+    {
+        //...............
+        return true;
+    }
+
     private void setUpMap() {
-        mMap.setMyLocationEnabled(true);
-        mMap.setMapType(GoogleMap.MAP_TYPE_SATELLITE);
+        if (isLocationEnabled(MapsActivitySoc.this)) {
+            mMap.addMarker(new MarkerOptions().position(new LatLng(0, 0)).title("Marker").snippet("Snippet"));
 
-        mMap.addMarker(new MarkerOptions().position(new LatLng(-33.8650, 151.2094)).title("Sydney"));
+            // Enable MyLocation Layer of Google Map
+            mMap.setMyLocationEnabled(true);
 
-        //mMap.addMarker(new MarkerOptions().position(latlng)).setVisible(true);
+            // Get LocationManager object from System Service LOCATION_SERVICE
+            LocationManager locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
 
-        LatLng latLng = new LatLng(-33.8650, 151.2094);
-        // Move the camera instantly to location with a zoom of 15.
-        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng, 6));
+            // Create a criteria object to retrieve provider
+            Criteria criteria = new Criteria();
 
-        // Zoom in, animating the camera.
-        mMap.animateCamera(CameraUpdateFactory.zoomTo(14), 2000, null);
+            // Get the name of the best provider
+            String provider = locationManager.getBestProvider(criteria, true);
+            criteria = new Criteria();
+            bestProvider = String.valueOf(locationManager.getBestProvider(criteria, true)).toString();
+
+
+            // Get Current Location
+            Location myLocation = locationManager.getLastKnownLocation(provider);
+
+            if (myLocation != null) {
+                // set map type
+                mMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
+
+                // Get latitude of the current location
+                latitude = myLocation.getLatitude();
+
+                // Get longitude of the current location
+                longitude = myLocation.getLongitude();
+
+                // Create a LatLng object for the current location
+                LatLng latLng = new LatLng(latitude, longitude);
+
+                // Show the current location in Google Map
+                mMap.moveCamera(CameraUpdateFactory.newLatLng(latLng));
+
+                // Zoom in the Google Map
+                mMap.animateCamera(CameraUpdateFactory.zoomTo(14));
+                mMap.addMarker(new MarkerOptions().position(new LatLng(latitude, longitude)).title("You are here!").snippet("Consider yourself located"));
+
+            } else {
+                //This is what you need:
+              //  locationManager.requestLocationUpdates(bestProvider, 1000, 0, this);
+            }
+        } else
+            {
+                //prompt user to enable location....
+                //.................
+            }
+        }
 
     }
 
-
-
-}

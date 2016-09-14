@@ -40,6 +40,10 @@
     <string name="Twitter">Twitter:</string>
     <string name="AcaciaSoftware">\@AcaciaSoftware</string>
     <string name="Search">Search</string>
+    <string name="photo">photo</string>
+    <string name="preview">Preview</string>
+    <string name="camera">Camera</string>
+    <string name="image_cd_camera">This is my camera</string>
 
 
     <string-array name="country_arrays">
