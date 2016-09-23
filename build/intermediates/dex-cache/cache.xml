@@ -2,190 +2,385 @@
 <items version="2" >
 
     <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="3b7383957bc03f4652f1c01ec865e3e38e1193d7">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2379369215a40b141b09341982b1f29a3f9c1c82\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="4c204d975d9ba0d0b67c2326409adb42cc22a379">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f2d0a106b916f3f741e45ddbc8b48411a6679f9\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.5.0_6cb6dce8d411f980d8ebbcf9c13a6ebb98aba6b7\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.5.0_98c3c0875e5bab33da9f50b31d941e9c55b16c3a\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.5.0_20b73eb4c68b788e711031d6e692cde372775ec9\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_6f23b4bc223aec6703045fc54d925bc2e32ac540\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.5.0_7b4cbd438bd39046e12bad582b4b9e57bde13649\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.5.0_a247bb58b9b8c4cafe2dbd85785583d2c701fe69\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.5.0_75916f773b0e3bd6e4d206ff9b65a527bef31bbb\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.5.0_7bf90aa04ee1c56b7bc7c9e6218f3ba80be26c41\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_f9589acca87ba1b0ac1544b1c3d8b195d19f1efa\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.5.0_9b5530807861c2219a122fd3be42d392a41e0c8c\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.5.0_01b81c79e4b80820cc6775c81e9fde9c3bc64b70\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.5.0_0cf0ba16f689e5a9d0977a03ff196ac84810a4b2\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.5.0_d57cbcdafbfa076e8db9154d8b5576e3666ad26b\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.5.0_f8e52258fc8db98f693d3502710abfa3c3222220\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Alex.Galan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_b726e82f8c3c368954bff5ac94192242e1b92a33\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.5.0_27736380a3231215d2be194324b5ca19e0f39bdb\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.5.0_6b4ffc582ce4f74f094bf093c0349113d74c9815\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.5.0_c3e3f53f44781cd4032d89923969c9dea253c688\classes.dex" />
-    </item>
-    <item
         jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
         sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
         <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.5.0_b6e0ffc5836af16b5ab3d553efe799e273f06ae6\classes.dex" />
     </item>
     <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_968c6164cd59e5226eb44193b4b488add15a8990\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.5.0_b28620a3a300280b60c3759c5c2b6111c5bc8673\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.5.0_52866f12673463d8afb57921577218fbfee780d7\classes.dex" />
-    </item>
-    <item
-        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_da69403040ab8cc74a75edf21330a48b23bcd837\classes.dex" />
-    </item>
-    <item
         jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
         sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
         <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.5.0_a15a0ba93d03bd47c225b5a3033dc7979a0945b4\classes.dex" />
     </item>
     <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.5.0_c3e3f53f44781cd4032d89923969c9dea253c688\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_968c6164cd59e5226eb44193b4b488add15a8990\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a4a5091468d687f22525db8fdb3d12f6bd1655c7">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f2d0a106b916f3f741e45ddbc8b48411a6679f9\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.5.0_98c3c0875e5bab33da9f50b31d941e9c55b16c3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6ba89c5dd70840cf42517fcf17ee1acb60be3b32">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2379369215a40b141b09341982b1f29a3f9c1c82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_da69403040ab8cc74a75edf21330a48b23bcd837\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.5.0_20b73eb4c68b788e711031d6e692cde372775ec9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.5.0_52866f12673463d8afb57921577218fbfee780d7\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.5.0_7bf90aa04ee1c56b7bc7c9e6218f3ba80be26c41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.5.0_7b4cbd438bd39046e12bad582b4b9e57bde13649\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Alex.Galan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_b726e82f8c3c368954bff5ac94192242e1b92a33\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.5.0_6b4ffc582ce4f74f094bf093c0349113d74c9815\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.5.0_d57cbcdafbfa076e8db9154d8b5576e3666ad26b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.5.0_27736380a3231215d2be194324b5ca19e0f39bdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.5.0_6cb6dce8d411f980d8ebbcf9c13a6ebb98aba6b7\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_6f23b4bc223aec6703045fc54d925bc2e32ac540\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.5.0_b28620a3a300280b60c3759c5c2b6111c5bc8673\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_f9589acca87ba1b0ac1544b1c3d8b195d19f1efa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.5.0_6b4ffc582ce4f74f094bf093c0349113d74c9815\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.5.0_01b81c79e4b80820cc6775c81e9fde9c3bc64b70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.5.0_0cf0ba16f689e5a9d0977a03ff196ac84810a4b2\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.5.0_9b5530807861c2219a122fd3be42d392a41e0c8c\classes.dex" />
+    </item>
+    <item
         jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.5.0_40f34fe29b496abc60f929e14954dc8ca6faacfa\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b7383957bc03f4652f1c01ec865e3e38e1193d7">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2379369215a40b141b09341982b1f29a3f9c1c82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.5.0_98c3c0875e5bab33da9f50b31d941e9c55b16c3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.5.0_f8e52258fc8db98f693d3502710abfa3c3222220\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.0.0_6d7e2654ad415e2b37726262d78638ac33e33514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.5.0_75916f773b0e3bd6e4d206ff9b65a527bef31bbb\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.5.0_a247bb58b9b8c4cafe2dbd85785583d2c701fe69\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.5.0_27736380a3231215d2be194324b5ca19e0f39bdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.5.0_a15a0ba93d03bd47c225b5a3033dc7979a0945b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.5.0_b6e0ffc5836af16b5ab3d553efe799e273f06ae6\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.5.0_b28620a3a300280b60c3759c5c2b6111c5bc8673\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_f9589acca87ba1b0ac1544b1c3d8b195d19f1efa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_968c6164cd59e5226eb44193b4b488add15a8990\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4c204d975d9ba0d0b67c2326409adb42cc22a379">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f2d0a106b916f3f741e45ddbc8b48411a6679f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex.Galan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_b726e82f8c3c368954bff5ac94192242e1b92a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.5.0_20b73eb4c68b788e711031d6e692cde372775ec9\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_da69403040ab8cc74a75edf21330a48b23bcd837\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.5.0_c3e3f53f44781cd4032d89923969c9dea253c688\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.5.0_7b4cbd438bd39046e12bad582b4b9e57bde13649\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.5.0_52866f12673463d8afb57921577218fbfee780d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
         revision="22.0.1"
         sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
         <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.5.0_40f34fe29b496abc60f929e14954dc8ca6faacfa\classes.dex" />
@@ -193,9 +388,94 @@
     <item
         jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
         jumboMode="true"
+        optimize="true"
         revision="22.0.1"
         sha1="a1372c17fccacca753d3951d3ad820571cbce075">
         <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.0.0_6d7e2654ad415e2b37726262d78638ac33e33514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.5.0_9b5530807861c2219a122fd3be42d392a41e0c8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.5.0_7bf90aa04ee1c56b7bc7c9e6218f3ba80be26c41\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.5.0_f8e52258fc8db98f693d3502710abfa3c3222220\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.5.0_a247bb58b9b8c4cafe2dbd85785583d2c701fe69\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.5.0_d57cbcdafbfa076e8db9154d8b5576e3666ad26b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.5.0_75916f773b0e3bd6e4d206ff9b65a527bef31bbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_6f23b4bc223aec6703045fc54d925bc2e32ac540\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.5.0_6cb6dce8d411f980d8ebbcf9c13a6ebb98aba6b7\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.5.0_01b81c79e4b80820cc6775c81e9fde9c3bc64b70\classes.dex" />
+    </item>
+    <item
+        jar="D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.5.0_0cf0ba16f689e5a9d0977a03ff196ac84810a4b2\classes.dex" />
     </item>
 
 </items>

@@ -54,10 +54,10 @@ public class MapsActivitySoc extends ActionBarActivity {
 
         if (id == R.id.add) {
             //New Intent
-          //  Intent nextScreen = new Intent(getApplicationContext(), AddActivity.class);
+            Intent nextScreen = new Intent(getApplicationContext(), AddActivity.class);
 
-        //    nextScreen.putExtra("Lat", latitude.toString());
-            //   nextScreen.putExtra("Long", longitude.toString());
+            nextScreen.putExtra("Lat", latitude);
+            nextScreen.putExtra("Long", longitude);
 
              //  nextScreen.putExtra("Lat", "33.8150");
              //  nextScreen.putExtra("Long", "151.0011");
@@ -67,8 +67,8 @@ public class MapsActivitySoc extends ActionBarActivity {
 
             //  Toast.makeText(getApplicationContext(), "Select a location on the Map to Add entry.", Toast.LENGTH_LONG).show();
           //  startActivity(new Intent(getApplicationContext(), AddActivity.class));
-          //  startActivity(nextScreen);
-            startActivity(new Intent(getApplicationContext(), AddActivity.class));
+           startActivity(nextScreen);
+          //  startActivity(new Intent(getApplicationContext(), AddActivity.class));
             return true;
         }
 
@@ -146,7 +146,8 @@ public class MapsActivitySoc extends ActionBarActivity {
 
     private void setUpMap() {
         if (isLocationEnabled(MapsActivitySoc.this)) {
-            mMap.addMarker(new MarkerOptions().position(new LatLng(0, 0)).title("Marker").snippet("Snippet"));
+            mMap.addMarker(new MarkerOptions().position(new LatLng(33.8688, 151.2093)).title("Marker").snippet("Snippet"));
+
 
             // Enable MyLocation Layer of Google Map
             mMap.setMyLocationEnabled(true);

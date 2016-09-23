@@ -1,0 +1,7 @@
+#Fri Sep 23 13:44:01 AEST 2016
+base.0=D\:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7f2d0a106b916f3f741e45ddbc8b48411a6679f9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2379369215a40b141b09341982b1f29a3f9c1c82\\classes.dex
+base.1=D\:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2379369215a40b141b09341982b1f29a3f9c1c82
+file.0=D\:\\AAA\\Android\\Sociality\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7f2d0a106b916f3f741e45ddbc8b48411a6679f9\\classes.dex

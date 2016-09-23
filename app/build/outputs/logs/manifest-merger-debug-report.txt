@@ -17,32 +17,21 @@ uses-permission#android.permission.INTERNET
 ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.google.android.gms:play-services-ads:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:21:5-67
 MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:19:5-67
 MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
 MERGED from [com.google.android.gms:play-services-wallet:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
 	android:name
 		ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:6:5-79
 MERGED from [com.google.android.gms:play-services-ads:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-nearby:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:19:5-79
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
 	android:name
 		ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:7:5-81
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
 MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
 	android:name
 		ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:7:22-78
@@ -53,9 +42,6 @@ ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:8:5-98
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:14:5-81
 MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
 	android:name
 		ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
@@ -64,92 +50,30 @@ ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:15:5-79
 		ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:15:22-76
 uses-sdk
 ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:16:5-75
-MERGED from [com.android.support:appcompat-v7:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-ads:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:23:5-42
 MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-appstate:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-cast:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:mediarouter-v7:22.0.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-drive:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-fitness:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-location:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-games:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-drive:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-gcm:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-identity:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-location:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-nearby:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-panorama:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-plus:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-wallet:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:19:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-identity:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-wearable:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:16:43-72
 		INJECTED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml
@@ -160,92 +84,30 @@ MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app
 		INJECTED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml
 application
 ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:18:5-75:19
-MERGED from [com.android.support:appcompat-v7:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-ads:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:20:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-appstate:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-cast:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:mediarouter-v7:22.0.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-drive:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-fitness:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-location:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-games:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-drive:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-gcm:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-identity:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-location:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-nearby:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:20:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-panorama:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-plus:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-wallet:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:24:5-35:19
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-identity:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-wearable:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:21:9-41
 	android:allowBackup
@@ -256,32 +118,6 @@ MERGED from [com.android.support:support-v4:22.2.1] D:\AAA\Android\Sociality\app
 		ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:22:9-40
 meta-data#com.google.android.gms.version
 ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:24:9-26:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
 	android:value
 		ADDED from D:\AAA\Android\Sociality\app\src\main\AndroidManifest.xml:26:13-66
@@ -369,9 +205,6 @@ ADDED from [com.google.android.gms:play-services-ads:7.5.0] D:\AAA\Android\Socia
 		ADDED from [com.google.android.gms:play-services-ads:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:30:19-91
 uses-feature#0x00020000
 ADDED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
-MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
 	android:glEsVersion
 		ADDED from [com.google.android.gms:play-services-maps:7.5.0] D:\AAA\Android\Sociality\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:25:8-40
 	android:required

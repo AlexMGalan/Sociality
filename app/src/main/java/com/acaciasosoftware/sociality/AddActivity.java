@@ -15,6 +15,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.Toast;
@@ -51,28 +52,32 @@ public class AddActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add);
 
-        // Receiving the Lat and Long
-      //  EditText txtLoc = (EditText) findViewById(R.id.edLoc);
-     //   Intent i = getIntent();
+      //   Receiving the Lat and Long
+        EditText txtLoc = (EditText) findViewById(R.id.edLoc);
+        Intent i = getIntent();
 
-     //   String LatLong = i.getStringExtra("Lat") + " " +  i.getStringExtra("Long");
-      //  txtLoc.setText(LatLong);
+        String LatLong = i.getStringExtra("Lat") + " " +  i.getStringExtra("Long");
+        txtLoc.setText(LatLong);
 
         //Get Current Date
-      //  Calendar c = Calendar.getInstance();
-       // System.out.println("Current time =&gt; "+c.getTime());
+        Calendar c = Calendar.getInstance();
+      //  System.out.println("Current time =&gt; "+c.getTime());
 
-       // SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-      //  String formattedDate = df.format(c.getTime());
 
-      //  EditText txtDate = (EditText) findViewById(R.id.edDate);
-      //  txtDate.setText(formattedDate);
+
+      //  SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+       // String formattedDate = df.format(c.getTime());
+      // Toast.makeText(getApplicationContext(), "Time:" +formattedDate, Toast.LENGTH_LONG).show();
+
+
+       // TextView txtDate = (textview) findViewById(R.id.date1);
+       // txtDate.setText(c.MONTH.tostring);
 
         addListenerOnButton();
         addListenerOnSpinnerItemSelection();
 
-       // Button cameraButton =(Button)findViewById(R.id.button_camera);
-       // cameraButton.setOnClickListener(cameraListener);
+       ImageButton cameraButton =(ImageButton)findViewById(R.id.button_camera);
+       cameraButton.setOnClickListener(cameraListener);
     }
 
     @Override

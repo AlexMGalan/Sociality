@@ -1,43 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="?android:attr/selectableItemBackground"    >
 
-    <RelativeLayout
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
-        android:layout_height="100dp">
-
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
         <TextView
-            android:id="@+id/date"
+            android:id="@+id/date1"
+            android:text="24"
+            android:textColor="#2f4f4f"
+            android:textStyle="bold"
+            android:textSize="32sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Date:"
-            android:textColor="#0000FF"
-            android:textStyle="bold"
-            android:textSize="18sp"
+           />
 
-            />
+    <TextView
+        android:id="@+id/date2"
+        android:text="SEPTEMBER 2016"
+        android:textColor="#2f4f4f"
+        android:textStyle="bold"
+        android:textSize="12sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"/>
 
-        <EditText
-            android:id="@+id/edDate"
-            android:layout_width="wrap_content"
-            android:layout_height="45dp"
-            android:ems="10"
-            android:gravity="center"
-            android:background="@layout/roundedcorner"
-            android:hint="--/--/----"
-            android:layout_centerVertical="true"
-            android:layout_alignParentStart="true" />
+    <TextView
+        android:id="@+id/time"
+        android:text="1:15 PM"
+        android:textColor="#2f4f4f"
+        android:textStyle="bold"
+        android:textSize="12sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"/>
+    </LinearLayout>
+
+    <RelativeLayout android:layout_width="wrap_content"
+        android:layout_height="57dp">
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
         <ImageButton android:id="@+id/button_camera"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/camera"
-            android:layout_below="@+id/date"
-            android:layout_toEndOf="@+id/edDate"
+
             android:src="@mipmap/camera48" />
 
         <ImageView
@@ -47,18 +61,14 @@
             android:rotation="90"
             android:layout_width="100dp"
             android:layout_height="100dp" />
-
     </RelativeLayout>
 
-    <TextView
-        android:id="@+id/Loc"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Location: "
-        android:textColor="#0000FF"
-        android:textStyle="bold"
-        android:textSize="18sp" />
-
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:orientation="vertical" >
     <EditText
         android:id="@+id/edLoc"
         android:layout_width="match_parent"
@@ -66,17 +76,10 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:ems="10"
-        android:gravity="center"
-        android:background="@layout/roundedcorner"
-        android:hint="Location" />
-    <TextView
-        android:id="@+id/Type"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Select Type:"
-        android:textColor="#0000FF"
-        android:textStyle="bold"
-        android:textSize="18sp" />
+        android:gravity="left"
+        android:hint="Location"
+        android:background="#E8E8E8"
+        android:layout_margin="10dp"/>
 
     <Spinner
             android:id="@+id/spinner"
@@ -84,16 +87,8 @@
             android:layout_height="45dp"
             android:entries="@array/incident_arrays"
             android:prompt="@string/country_prompt"
-            android:background="@layout/roundedcorner"/>
 
-    <TextView
-        android:id="@+id/Per"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Person :"
-        android:textColor="#0000FF"
-        android:textStyle="bold"
-        android:textSize="18sp" />
+        android:layout_margin="10dp"/>
 
     <EditText
         android:id="@+id/edPer"
@@ -102,18 +97,10 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:ems="10"
-        android:gravity="center"
-        android:background="@layout/roundedcorner"
-        android:hint="Enter Sex, Race, Age" />
-
-    <TextView
-        android:id="@+id/Desc"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Description:"
-        android:textColor="#0000FF"
-        android:textStyle="bold"
-        android:textSize="18sp" />
+        android:gravity="left"
+        android:background="#E8E8E8"
+        android:hint="Enter Sex, Race, Age"
+        android:layout_margin="10dp"/>
 
     <EditText
         android:id="@+id/edDesc"
@@ -122,9 +109,10 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:ems="10"
-        android:gravity="center"
-        android:background="@layout/roundedcorner"
-        android:hint="Further Information" />
+        android:gravity="left"
+        android:hint="Further Information"
+        android:background="#E8E8E8"
+        android:layout_margin="10dp"/>
 
     <TextView
         android:id="@+id/Sent"
@@ -144,3 +132,4 @@
             android:layout_gravity="center"
             />
 </LinearLayout>
+    </LinearLayout>

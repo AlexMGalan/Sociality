@@ -1,33 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="22"
-    density="560dpi"
-    format="7"
-    timestamp="364955656660957"
-    token="-2460634845097181110" >
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="106472771702194"
+    token="-2460634845097181110"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1270" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="897" />
+        duration="0" />
     <task
         name="verifier"
-        duration="909" />
+        duration="0" />
 
-    <artifact
-        location="D:\AAA\Android\Sociality\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
-
-    <build timestamp="364955656660957" >
+    <build
+        timestamp="105776937627756"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\AAA\Android\Sociality\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
+    <build
+        timestamp="106312508223857"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\AAA\Android\Sociality\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="106472771702194"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
